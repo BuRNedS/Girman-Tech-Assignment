@@ -1,0 +1,210 @@
+.bgImageIcon {
+    position: absolute;
+    top: -278px;
+    left: -60px;
+    width: 100%;
+    height: 2115px;
+    object-fit: cover;
+    opacity: 0.05;
+    mix-blend-mode: multiply;
+}
+.imageIcon {
+    width: 62.3px;
+    position: relative;
+    border-radius: 5.15px;
+    height: 62.3px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.girman {
+    position: relative;
+    line-height: 42.17px;
+}
+.technologies {
+    position: relative;
+    font-size: 11.24px;
+    letter-spacing: 0.4em;
+    font-weight: 600;
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 12.7px;
+    font-family: Poppins;
+}
+.girman1 {
+    font-weight: 800;
+}
+.technologies1 {
+    font-weight: 300;
+}
+.girmanTechnologies {
+    position: absolute;
+    top: 4.57px;
+    left: 721.81px;
+    display: none;
+}
+.girman2 {
+    position: absolute;
+    top: 7.38px;
+    left: 82.25px;
+    font-weight: 300;
+}
+.logo1Child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8.43px;
+    width: 70.3px;
+    height: 70.3px;
+    overflow: hidden;
+}
+.logo1 {
+    width: 232.3px;
+    position: relative;
+    height: 70.3px;
+    display: none;
+    font-size: 44.4px;
+    color: #000;
+}
+.logoIcon {
+    width: 0px;
+    position: relative;
+    height: 0px;
+    display: none;
+}
+.home {
+    position: relative;
+    text-decoration: underline;
+    letter-spacing: -0.2px;
+    color: #3063e6;
+}
+.service {
+    position: relative;
+    letter-spacing: -0.2px;
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 42.2px;
+    font-size: 22.49px;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 1.4055637121200562px 8.43px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    width: 100%;
+    height: 111px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 605.8px;
+}
+.colouredV1WhiteChild {
+    width: 180.7px;
+    position: relative;
+    height: 120.6px;
+}
+.girmanIcon {
+    width: 554.8px;
+    position: relative;
+    height: 121.1px;
+}
+.girmanWrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 552.5px;
+    height: 120.6px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.colouredV1WhiteInner {
+    width: 552.5px;
+    position: relative;
+    height: 120.6px;
+}
+.colouredV1White {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 38.6px;
+}
+.magnifyingGlassIcon {
+    width: 16px;
+    position: relative;
+    height: 16px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.text1 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.wrapper1 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 0px;
+}
+.wrapper {
+    align-self: stretch;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+    background-color: #fff;
+    border: 1px solid #d7d7ea;
+    box-sizing: border-box;
+    height: 51px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0px 12px 0px 20px;
+    gap: 16px;
+}
+.colouredV1WhiteParent {
+    position: absolute;
+    top: calc(50% - 283px);
+    left: calc(50% - 399px);
+    width: 798px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 80px;
+    font-size: 18px;
+    color: #71717a;
+}
+.homescreen {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, #fff 31%, #b1cbff);
+    height: 1080px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 37.23px;
+    color: #111;
+    font-family: Inter;
+}
+
